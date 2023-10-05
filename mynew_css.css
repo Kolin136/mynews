@@ -9,7 +9,7 @@ body {
     filter: sepia(0);
     background-repeat: no-repeat; 
     background-size: cover; 
-    /* background-attachment: fixed; */ 
+   
 }
 
 header {
