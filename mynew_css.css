@@ -5,7 +5,7 @@ body {
     color: white;
     background-color: #f9f7f1;
     /* background-image: url('https://getwallpapers.com/wallpaper/full/5/8/7/491733.jpg'); */
-    background-image: url('css_image/491733.jpg');
+    background-image: url('./css_image/491733.jpg');
     filter: sepia(0);
     background-repeat: no-repeat; 
     background-size: cover; 
